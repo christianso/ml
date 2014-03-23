@@ -1,6 +1,6 @@
 %% Initialization
 clear ; close all; clc
-addpath('~/octave/ml/functions/');
+addpath('../../../functions/');
 
 %% =========== Load training data =============
 
